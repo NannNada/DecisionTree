@@ -1,2 +1,0 @@
-# DecisionTree
-DecisionTree활용
