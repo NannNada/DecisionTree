@@ -1,5 +1,5 @@
 # 영어 영화리뷰 감성분석
-
+자세한 설명은 주피터 노트북 안에
 ## 라이브러리
 - CountVectorizer : 단어들의 카운트(출현 빈도(frequency))로 여러 문서들을 벡터화
 - LogisticRegression
